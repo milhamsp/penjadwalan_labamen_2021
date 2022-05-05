@@ -1,0 +1,27 @@
+Nama:	M. Ilham Syahputra
+NPM:	54417077
+
+Cara menjalankan: 
+1. Copy folder penjadwalan ke htdocs
+2. Buat database dengan nama "penjadwalan"
+di phpmyadmin
+3. Import penjadwalan.sql melalui phpmyadmin
+4. Kunjungi alamat:
+	localhost/penjadwalan
+5. Untuk login:
+	Username:	admin
+	Pass:		admin
+6. Akun lain:
+	Username:	Password:
+
+	milham		milham
+	bungar		bungar
+	choirula	choirula
+	diaza		diaza
+	dindag		dindag
+	hannyh		hannyh
+	mayao		mayao
+	mrizki		mrizki
+	msaad		msaad
+	rahayua		rahayua
+	sondangd	sondangd
