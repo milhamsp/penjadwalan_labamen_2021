@@ -1,0 +1,4 @@
+# penjadwalan_labamen_2021
+This repository contains my research project which is Web-based Application called "Aplikasi Penjadwalan Untuk Asisten Dan Programmer Laboratorium Akuntansi Menengah Universitas Gunadarma Berbasis Website". This project has been finished in March 2021 and I am the one who created it. 
+This Web-based application was created to accomplish my Research (Penulisan Ilmiah) project using PHP, HTML, CSS and JavaScript with MySQL as its DBMS and supported by CodeIgniter 3 PHP framework and Bootstrap 4.0 CSS framework. 
+This research is aimed at developing a website-based scheduler for Assistant and Programmer of Laboratorium Akuntansi Menengah Universitas Gunadarma that can receive input from each Assistant & Programmer in the form of their free schedule which will be processed by the system with the output displaying the names of the Assistant & Programmer who can attend the practicum days and shifts mentioned.
